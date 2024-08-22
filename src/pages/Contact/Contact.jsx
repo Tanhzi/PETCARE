@@ -12,7 +12,7 @@ function Contact() {
     <div className='container'>
       <div className='row'>
         <div className='col-md-12'>
-          <h1 className='text-center'>Nhìn xin 5k</h1>
+          <h1 className='text-center'>Contact</h1>
         </div>
       </div>
     </div>
