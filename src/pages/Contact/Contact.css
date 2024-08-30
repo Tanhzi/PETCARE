@@ -1,0 +1,39 @@
+/* Global Styles */
+.text-pink {
+    color: #ff69b4; /* Màu hồng */
+  }
+  
+  .btn-pink {
+    background-color: #ff69b4; /* Nền hồng */
+    border: none;
+    color: #fff;
+  }
+  
+  .btn-pink:hover {
+    background-color: #ff85c2; /* Màu hồng nhạt hơn khi hover */
+    color: #fff;
+  }
+  
+  /* Footer Styles */
+  .footer {
+    background-color: #f0f0f0; /* Màu nền xám nhạt */
+    padding: 30px 0;
+  }
+  
+  .footer .text-pink {
+    color: #ff69b4; /* Màu hồng cho chữ trong footer */
+  }
+  
+  .footer h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  
+  .footer p {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  
+  .footer .social-icons a {
+    margin-right: 15px; /* Khoảng cách giữa các icon mạng xã hội */
+  }
